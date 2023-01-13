@@ -9,7 +9,7 @@ class Config(object):
     # get a token from @BotFather
     TG_BOT_TOKEN = ("TG_BOT_TOKEN", "5745311176:AAGZJqwVmOSEf_f-uJkKVFmc6pcjeE0LmYk")
     # The Telegram API things
-    APP_ID = int(("APP_ID", 14699743))
+    APP_ID = ("APP_ID", 14699743)
     API_HASH = ("API_HASH", "0cef89ed2c8025c16d2b4d42a1b8d792")
     LOG_CHANNEL = ("LOG_CHANNEL")
     UPDATES_CHANNEL = ("UPDATES_CHANNEL", None) # Without `@` LOL
